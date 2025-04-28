@@ -1,0 +1,9 @@
+TUESDAY 28TH APRIL 2025
+1)	Setting up files: linking the local repository to remote repository
+git-config – global user.name “recha-maker”
+git-config – global user. Email “ recha@buc.ac.ke “
+
+Above used to transfer the file “Jambo Kenya” 
+
+2)	 
+
